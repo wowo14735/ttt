@@ -16,7 +16,7 @@ jobs:
   
     steps:
       - name: Clone repository
-        uses: wowo14735
+        uses: actions/wowo14735
         
       - name: Auto green
         run: |
